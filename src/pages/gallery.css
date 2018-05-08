@@ -1,0 +1,18 @@
+ul.imageContainer
+{
+  display:flex;
+  justify-content: space-around;
+}
+
+ul.imageContainer li
+{
+  list-style-type:none;
+  margin:0 1.5rem;
+}
+
+ul.imageContainer li .imageBox
+{
+  width:5rem;
+  height:5rem;
+  background-color:#770033;
+}

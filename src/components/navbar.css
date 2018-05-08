@@ -1,0 +1,28 @@
+nav
+{
+  display:block;
+  margin:10px 0;
+}
+
+ul
+{
+  display:flex;
+  justify-content:center;
+}
+
+li
+{
+  list-style-type:none;
+  margin:0 10px;
+}
+
+li a
+{
+  color:#333;
+  text-decoration:none;
+}
+
+li a:hover
+{
+  color:#0f9921;
+}
